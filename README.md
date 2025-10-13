@@ -1,17 +1,27 @@
-W to go straight forward.
+RULES:
 
-A to go left forward in a curved direction.
 
-S to go straight backward.
 
-D to go right backward in a curved direction.
+W to go forward.
+
+A to go in a clockwise direction.
+
+S to go backward.
+
+D to go in a counter-clockwise direction.
 
 Aim of the game: Sacrifice all the characters walking around to win.
 
-How to Sacrifice: Touch a character with the car you are playing as.
+How to "sacrifice": Make contact with a walking non-playable character with the car you are playing as.
 
-Scoreboard: To keep track of how many characters you have sacrificed.
+Scoreboard: To keep track of how many non-playable characters you have sacrificed.
 
-Total: 11 characters to sacrifice.
+Total sacrifices: 11 non-playable characters to sacrifice.
 
-Game over: Once you have "sacrificed" all walking characters.
+Game over: Once you have sacrificed all walking non-playable characters.
+
+Sacrifice theme: Sacrifice non-playable characters to win the game.
+
+Tips / Hints: Can sacrifice more than one non-playable character at a time.
+
+Music / Sound effects: Turn volume up for the best experience.
